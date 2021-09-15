@@ -72,9 +72,9 @@ document
 ## Lesson 3
 :dart: **Goal: create image files out of text**
 
-Now we are ready to get back to out `canvas` element.
+Now we are ready to get back to our `canvas` element.
 
-Here we will put a text we store in `Fancy.fancytext` into `canvas` element with canvas `fillText` function. Please take a look at [docs](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text). To place a text properly you will most likely need a [TextMetrics](https://developer.mozilla.org/en-US/docs/Web/API/TextMetrics) intance of your canvas text. To get it you will need to call `ctx.measureText(text)`
+Here we will put a text we store in `Fancy.fancytext` into `canvas` element with canvas `fillText` function. Please take a look at [docs](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text) for how to do it. To place a text properly you will most likely need a [TextMetrics](https://developer.mozilla.org/en-US/docs/Web/API/TextMetrics) instance of your canvas text. To get it, you will need to call `ctx.measureText(text)`
 
 To download a resulting cavas as an image, you can convert it simply to URL with `canvas.toDataURL("image/png")` 
 
