@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "tweakpane": "^3.0.5"
   }
 }
