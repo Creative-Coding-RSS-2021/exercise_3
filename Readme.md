@@ -96,4 +96,4 @@ $ yarn add tweakpane
 
 The main idea here is to handle canvas image that we created before as a template for applying any art elements you find appropriate. 
 
-:point_right:  **Task** checkout a `lesson4` branch and play with an implemented example by changing/hacking the values you want.
+:point_right:  **Task** checkout a `lesson4` branch and play with an implemented example by changing/hacking the values you want. Make a real art out of it.
