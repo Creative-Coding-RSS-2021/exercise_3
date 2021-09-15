@@ -69,7 +69,7 @@ document
 
 
 
-## Lesson 3
+## Lesson 3. Canvas Font
 :dart: **Goal: create image files out of text**
 
 Now we are ready to get back to our `canvas` element.
@@ -90,3 +90,10 @@ $ yarn add tweakpane
 
 
 
+## Lesson 4. Draw Bitmap
+
+:dart: **Goal: draw an image based on some template**
+
+The main idea here is to handle canvas image that we created before as a template for applying any art elements you find appropriate. 
+
+:point_right:  **Task** checkout a `lesson4` branch and play with an implemented example by changing/hacking the values you want.
