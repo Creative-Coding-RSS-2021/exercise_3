@@ -43,7 +43,7 @@ const Fancy = {
 }
 ````
 
-to apply a new input value we will need to define a `function` inside our object, that do it for us.
+now we will can define a `function` inside our object, so we can change a value of `fancytext` property. (*Actually we can also do it also without any function, just directly*)
 
 ````
 const Fancy = {
